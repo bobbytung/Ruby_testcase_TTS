@@ -1,6 +1,6 @@
 This repository provides materials for APL meeting for JLREQ in Kyoto, 9/8/2019.
 
-I'd like to arise several accessibility issues in East-Asia text layout such as vertical writing and ruby text. We could extend the discussion on W3C TPAC Fukuoka as an unconferenced day topic.
+I'd like to arise several accessibility issues in East-Asia text layout such as vertical writing and ruby text. We could extend the discussion on W3C TPAC Fukuoka as an unconferenced day topic to collect more comments.
 
 ## Ruby text with screen reader.
 
