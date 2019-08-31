@@ -6,8 +6,10 @@ I'd like to arise several accessibility issues in East-Asia text layout such as 
 
 [This page](https://bobbytung.github.io/Ruby_testcase_TTS/) lists three usage of ruby text:
 
-1, for spelling/pronunciation.
-2, for another language (and Katakana).
-3, for different meaning.
+1. for spelling/pronunciation.
+
+2. for another language (and Katakana).
+
+3. for different meaning.
 
 ## Page progress direction with screen reader.
